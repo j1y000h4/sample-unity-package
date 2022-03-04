@@ -1,9 +1,10 @@
 {
     "name": "com.imfine.sampleunitypackage",
-    "version": "1.0.0",
-    "displayname": "IMFINE Sample Unity Package",
+    "version": "1.0.1",
+    "displayName": "IMFINE Sample Unity Package",
     "description": "A Sample package manager.",
     "unity": "2020.2",
+    "unityRelease": "6f1",
     "author": {
         "name": "Jeong Jae Hong",
         "email": "jaehong.jeong@im-fine.co.kr",
