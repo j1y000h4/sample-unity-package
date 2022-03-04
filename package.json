@@ -1,6 +1,6 @@
 {
     "name": "com.imfine.sampleunitypackage",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "displayName": "IMFINE Sample Unity Package",
     "description": "A Sample package manager.",
     "unity": "2020.2",
