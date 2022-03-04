@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayname": "IMFINE Sample Unity Package",
     "description": "A Sample package manager.",
-    "unity": "2020.2.6f1",
+    "unity": "2020.2",
     "author": {
         "name": "Jeong Jae Hong",
         "email": "jaehong.jeong@im-fine.co.kr",
