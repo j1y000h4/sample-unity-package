@@ -6,6 +6,9 @@ namespace IMFINE.Tools
 {
     public class SampleToolKit : MonoBehaviour
     {
-
+        private void Start()
+        {
+            Debug.Log("테스트");
+        }
     }
 }
